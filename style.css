@@ -1,0 +1,246 @@
+* {
+    left: 0;
+    right: 0;
+    top: 0;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 100%;
+    height: 105vh;
+    position: relative;
+    left: 0px;
+    top: 0px;
+    padding: 0;
+    margin: 0;
+    background-image: url('./pictures/Layer.png');
+    background-size: 100% auto;
+}
+
+nav {
+    position: absolute;
+    width: 100%;
+    height: 120px;
+
+    top: 0px;
+    background: rgba(94, 93, 88, 0.6);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.ul_nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.il_nav {
+    margin: 10px;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 25px;
+    list-style: none;
+    color: rgba(255, 255, 255, 0.6);
+
+}
+
+.v_head {
+    width: 100%;
+    height: 105vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.n3_head {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    text-align: center !important;
+
+
+
+}
+
+#hh {
+    color: #18CFAB;
+}
+
+span {
+    color: #18CFAB;
+    margin-left: 5px;
+}
+
+.n1_head {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 78px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    text-align: center;
+
+}
+
+.np_head {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 34px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #D4D4D4;
+}
+
+.bbn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.btn1 {
+    width: 169px;
+    height: 63px;
+    background: #18CFAB;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 32px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    border: none;
+    margin: 30px;
+}
+
+.btn2 {
+    margin: 30px;
+    width: 169px;
+    height: 63px;
+    border: none;
+    background: #00CBF6;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 32px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+/*-------SECTION1-----*/
+.section1 {
+    width: 100%;
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+}
+
+
+
+.sec {
+    width: 482px;
+    height: 277px;
+    text-align: center;
+    background: #1C2A33;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #18CFAB;
+    text-transform: uppercase;
+    line-height: 40px;
+}
+
+#secc {
+    background-color: #18CFAB !important;
+    color: #FFFFFF;
+}
+
+#seccc {
+    background-color: #18CFAB !important;
+    color: #FFFFFF;
+
+}
+
+/*-----SECTION2*/
+.section2 {
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sss {
+    width: 80%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 10px;
+
+}
+
+.hrr {
+
+    color: #18CFAB;
+    text-align: center;
+}
+
+.diii {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 70px;
+}
+
+.btn3 {
+    width: 169px;
+    height: 63px;
+    border-color: #18CFAB;
+    background-color: #FFFFFF;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 32px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #717171;
+    border: 1px solid #18CFAB;
+    margin: 2px;
+}
+
+.bb1 {
+    background-color: #18CFAB;
+}
